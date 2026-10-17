@@ -1,4 +1,4 @@
-# 📊 Flipkart Mobile Sales Dashboard
+# 📊 E-Commerece Sales Dashboard
 
 A Power BI dashboard built to analyze Flipkart mobile sales data using interactive visualizations and business KPIs.
 
